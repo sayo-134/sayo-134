@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sayo-134
 - 👀 I’m interested in VLSI Design, specially Neuromorphic computing
-- 🌱 I’m an M.Tech student in IISc Bangalore
+- 🌱 I’m an M.Tech student at IISc Bangalore
 
 
 <!---
